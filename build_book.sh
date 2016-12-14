@@ -1,4 +1,4 @@
-#!/bin/bash    RRTRTRJKLJK L
+#!/bin/bash
 book_name="Burp_Suite_Doc_zh_cn"
 gitbook pdf .
 mv book.pdf ${book_name}.pdf
